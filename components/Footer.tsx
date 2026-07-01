@@ -26,7 +26,6 @@ export default function Footer() {
   return (
     <footer className="bg-gray-900 text-white py-10">
       <div className="max-w-6xl mx-auto px-6 text-center">
-
         {/* Logo */}
         <div className="flex justify-center mb-4">
           <div className="w-14 h-14 rounded-full bg-emerald-100 flex items-center justify-center">
@@ -41,8 +40,8 @@ export default function Footer() {
 
         {/* Description */}
         <p className="mt-3 text-gray-400 max-w-xl mx-auto leading-7">
-          Transforming lives through Yoga, Meditation, Natural Healing,
-          and holistic wellness.
+          Transforming lives through Yoga, Meditation, Natural Healing, and
+          holistic wellness.
         </p>
 
         {/* Email */}
@@ -52,7 +51,7 @@ export default function Footer() {
             href="mailto:info@serenityyoga.com"
             className="hover:text-emerald-400 transition"
           >
-            info@serenityyoga.com
+            afsana.mkzia@gmail.com
           </a>
         </div>
 
@@ -60,7 +59,6 @@ export default function Footer() {
         <div className="border-t border-gray-700 mt-8 pt-5 text-sm text-gray-500">
           © 2026 Serenity Yoga & Natural Healthcare. All Rights Reserved.
         </div>
-
       </div>
     </footer>
   );

@@ -204,7 +204,7 @@ export default function Contact() {
       return;
     }
 
-    const whatsappNumber = "919321459947";
+    const whatsappNumber = "919987175449";
 
     const message = `
 🌿 *New Consultation Request*
