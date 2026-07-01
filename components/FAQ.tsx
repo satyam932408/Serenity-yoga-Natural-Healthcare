@@ -16,20 +16,34 @@ const faqs = [
     answer:
       "Yes. Our Weight Loss Program combines yoga, breathing exercises, healthy lifestyle guidance, and nutrition support to help you achieve sustainable results.",
   },
+  
+ 
   {
-    question: "Can yoga reduce body pain and stiffness?",
+    question: "What is included in the Nutrition Guidance Program?",
     answer:
-      "Yes. Our Therapeutic Yoga and Pain Relief Program focuses on relieving neck pain, back pain, shoulder pain, knee pain, and improving flexibility naturally.",
+      "Our nutrition guidance includes personalized diet recommendations, healthy eating habits, meal planning, and lifestyle advice to support your wellness goals.",
   },
   {
-    question: "Do I receive a personalized wellness plan?",
+    question: "How does meditation help improve mental health?",
     answer:
-      "Yes. Every consultation includes a customized wellness plan based on your health goals, lifestyle, and medical history.",
+      "Meditation helps reduce stress, anxiety, improves concentration, promotes better sleep, and creates a sense of inner peace and emotional balance.",
   },
+  {
+    question: "What are the benefits of Pranayama?",
+    answer:
+      "Pranayama improves lung capacity, enhances breathing efficiency, boosts energy levels, reduces stress, and supports overall physical and mental well-being.",
+  },
+  {
+    question: "Do you provide personalized wellness plans?",
+    answer:
+      "Yes. Every client receives a customized wellness plan based on their health goals, lifestyle, fitness level, and any existing medical conditions.",
+  },
+  
+
   {
     question: "How do I book my first consultation?",
     answer:
-      "Simply fill out the consultation form on our website. After completing the booking process, our team will contact you through WhatsApp to schedule your session.",
+      "Simply fill out the consultation form on our website. After submitting your request, our team will contact you through WhatsApp to confirm your appointment and guide you through the next steps.",
   },
 ];
 

@@ -101,9 +101,9 @@ export default function Hero() {
 
           {/* Description */}
           <p className="mt-6 text-lg sm:text-xl text-gray-200 leading-8 max-w-2xl">
-            Experience the power of Yoga, Meditation, Therapeutic Healing,
-            Pranayama, and personalized wellness programs designed to improve
-            your body, mind, and lifestyle.
+            Experience the power of Yoga, Meditation, Pranayama, Therapeutic
+            Healing and personalized wellness programs designed to improve your
+            body, mind, and lifestyle.
           </p>
 
           {/* Buttons */}
@@ -126,7 +126,6 @@ export default function Hero() {
             </a>
           </div>
 
-          
           <div className="mt-12 flex flex-wrap gap-8 text-white">
             <div>
               <h3 className="text-3xl font-bold">5000+</h3>

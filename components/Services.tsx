@@ -37,12 +37,6 @@ export default function Services() {
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900">
               Our Services
             </h2>
-
-            <p className="mt-4 text-gray-600 text-base sm:text-lg leading-7">
-              Discover personalized yoga and holistic wellness services designed
-              to improve your physical health, mental peace, and overall
-              well-being.
-            </p>
           </div>
 
           {/* Cards */}
@@ -58,19 +52,19 @@ export default function Services() {
                 </div>
 
                 {/* Title */}
-                <h3 className="text-xl lg:text-2xl font-semibold text-gray-900 mb-3">
+                <h3 className="text-xl lg:text-2xl font-semibold text-gray-900 mb-4">
                   {service.title}
                 </h3>
 
                 {/* Description */}
-                <p className="text-gray-600 text-sm sm:text-base leading-7">
+                <p className="text-gray-600 text-lg sm:text-xl lg:text-[22px] leading-8">
                   {service.description}
                 </p>
 
                 {/* Button */}
                 <button
                   onClick={() => setSelectedService(service)}
-                  className="mt-6 text-green-700 font-semibold hover:text-green-900 transition"
+                  className="mt-6 text-green-700 text-base sm:text-lg font-semibold hover:text-green-900 transition"
                 >
                   Learn More →
                 </button>

@@ -31,7 +31,7 @@ export default function Stats() {
       <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8">
         {/* Heading */}
         <div className="text-center max-w-3xl mx-auto mb-14">
-          <span className="inline-block px-4 py-2 rounded-full bg-emerald-100 text-emerald-700 text-sm font-semibold">
+          <span className="inline-block px-4 py-2 rounded-full bg-emerald-100 text-emerald-700 text-sm sm:text-base font-semibold">
             Trusted by Thousands
           </span>
 
@@ -39,7 +39,7 @@ export default function Stats() {
             Our Impact in Numbers
           </h2>
 
-          <p className="mt-4 text-gray-600 text-base sm:text-lg leading-7">
+          <p className="mt-5 text-gray-600 text-lg sm:text-xl lg:text-[22px] leading-8">
             Helping thousands of people improve their physical health, mental
             well-being, and lifestyle through yoga and natural healing.
           </p>
@@ -63,7 +63,7 @@ export default function Stats() {
               </h3>
 
               {/* Label */}
-              <p className="mt-3 text-gray-600 text-sm sm:text-base leading-6">
+              <p className="mt-3 text-gray-600 text-base sm:text-lg lg:text-xl font-medium leading-7">
                 {stat.label}
               </p>
             </div>

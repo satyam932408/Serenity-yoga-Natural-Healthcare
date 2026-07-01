@@ -2,10 +2,10 @@
 
 import {
   FaUserCheck,
-  FaLeaf,
+  FaClipboardList,
   FaLaptopHouse,
-  FaHandsHelping,
-  FaHeartbeat,
+  FaSeedling,
+  FaChartLine,
   FaUsers,
 } from "react-icons/fa";
 
@@ -17,7 +17,7 @@ const benefits = [
       "Learn from experienced yoga professionals dedicated to your health and wellness journey.",
   },
   {
-    icon: <FaLeaf />,
+    icon: <FaClipboardList />,
     title: "Personalized Programs",
     description:
       "Customized yoga and wellness plans designed according to your health goals and lifestyle.",
@@ -29,13 +29,13 @@ const benefits = [
       "Attend flexible classes from the comfort of your home or join us at our wellness center.",
   },
   {
-    icon: <FaHandsHelping />,
+    icon: <FaSeedling />,
     title: "Natural Healing",
     description:
       "Experience holistic healing through yoga, meditation, breathing techniques, and natural therapies.",
   },
   {
-    icon: <FaHeartbeat />,
+    icon: <FaChartLine />,
     title: "Long-Term Results",
     description:
       "Improve flexibility, strength, mental peace, and overall health with sustainable wellness practices.",
@@ -57,11 +57,6 @@ export default function Benefits() {
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900">
             Why Choose Us?
           </h2>
-
-          <p className="mt-4 text-gray-600 text-base sm:text-lg leading-7">
-            We combine traditional yoga, natural healing, and personalized
-            wellness programs to help you live a healthier and happier life.
-          </p>
         </div>
 
         {/* Cards */}
@@ -77,12 +72,12 @@ export default function Benefits() {
               </div>
 
               {/* Title */}
-              <h3 className="text-xl lg:text-2xl font-semibold text-gray-900 mb-3">
+              <h3 className="text-xl lg:text-2xl font-semibold text-gray-900 mb-4">
                 {item.title}
               </h3>
 
               {/* Description */}
-              <p className="text-gray-600 text-sm sm:text-base leading-7">
+              <p className="text-gray-600 text-lg sm:text-xl lg:text-[22px] leading-8">
                 {item.description}
               </p>
             </div>
