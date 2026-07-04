@@ -13,12 +13,14 @@ export default function Navbar() {
               <FaLeaf className="text-emerald-600 text-2xl" />
             </div>
 
-            <div>
-              <h1 className="text-xl sm:text-2xl font-bold text-gray-900">
-                Serenity Yoga
+            <div className="leading-tight">
+              <h1 className="text-2xl sm:text-2xl font-bold text-gray-900">
+                Serenity Yoga &
               </h1>
 
-              <p className="text-sm text-gray-500">Natural Healthcare</p>
+              <h2 className="text-2xl sm:text-2xl font-bold text-gray-900">
+                Natural Healthcare
+              </h2>
             </div>
           </div>
 

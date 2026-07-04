@@ -11,12 +11,6 @@ const faqs = [
     answer:
       "Yes. You can join our live online sessions from anywhere or attend our offline classes at our wellness center based on your preference.",
   },
-  {
-    question: "Can yoga help with weight loss?",
-    answer:
-      "Yes. Our Weight Loss Program combines yoga, breathing exercises, healthy lifestyle guidance, and nutrition support to help you achieve sustainable results.",
-  },
-  
  
   {
     question: "What is included in the Nutrition Guidance Program?",
@@ -57,10 +51,7 @@ export default function FAQ() {
             Frequently Asked Questions
           </h2>
 
-          <p className="mt-4 text-gray-600 text-base sm:text-lg leading-7">
-            Find answers to the most common questions about our yoga classes,
-            wellness programs, and consultation process.
-          </p>
+          
         </div>
 
         {/* FAQ Cards */}
