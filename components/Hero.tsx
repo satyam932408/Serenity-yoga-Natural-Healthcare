@@ -141,6 +141,8 @@ export default function Hero() {
               <h3 className="text-3xl font-bold">95%</h3>
               <p className="text-gray-300 text-sm">Client Satisfaction</p>
             </div>
+
+            
           </div>
         </motion.div>
       </div>

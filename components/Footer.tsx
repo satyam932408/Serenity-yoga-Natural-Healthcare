@@ -40,8 +40,7 @@ export default function Footer() {
 
         {/* Description */}
         <p className="mt-3 text-gray-400 max-w-xl mx-auto leading-7">
-          Transforming lives through Yoga, Meditation, Natural Healing, and
-          holistic wellness.
+          Helping You Achieve a Healthier Mind, Body & Lifestyle.
         </p>
 
         {/* Email */}
