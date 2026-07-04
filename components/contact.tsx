@@ -207,17 +207,17 @@ export default function Contact() {
     const whatsappNumber = "919987175449";
 
     const message = `
-🌿 *New Consultation Request*
+ *hi , I would like to book a consultation. Please find my details below:*
 
-👤 Name: ${formData.name}
+• Name: ${formData.name}
 
-📧 Email: ${formData.email}
+• Email: ${formData.email}
 
-📱 Phone: ${formData.phone}
+• Phone: ${formData.phone}
 
-🧘 Program: ${formData.program}
+• Program: ${formData.program}
 
-💬 Message:
+• Message:
 ${formData.message}
 `;
 
