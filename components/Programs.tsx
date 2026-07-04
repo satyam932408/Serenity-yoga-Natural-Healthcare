@@ -5,43 +5,40 @@ const programs = [
     title: "Stress Management Program",
     description:
       "Reduce stress, anxiety, and improve mental well-being with meditation, breathing techniques, and relaxation practices.",
-    image:
-      "https://tse3.mm.bing.net/th/id/OIP.bgetXThvbRTMBGz6y4Gk_wHaGe?rs=1&pid=ImgDetMain&o=7&rm=3",
+    image: "/images/SMP.webp",
   },
   {
     title: "Diabetes Wellness Program",
     description:
       "Support healthy blood sugar management through therapeutic yoga, mindful nutrition, and holistic wellness practices.",
-    image:
-      "https://www.goodlife.co.ke/wp-content/uploads/bfi_thumb/Article-Banners-1200-by-630-3n1bnaw27j1qx01h8ff3t6.jpg",
+    image: "/images/DWP.jpg",
   },
   {
     title: "Weight Loss Program",
     description:
       "Achieve healthy and sustainable weight loss through personalized yoga sessions, nutrition guidance, and lifestyle coaching.",
-    image:
-      "https://th.bing.com/th/id/OIP.ETIjj1LbQqFThBf0nRHbkwHaEO?w=252&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3",
+    image: "/images/WLP.webp",
   },
   {
     title: "Corporate Wellness Program",
     description:
       "Enhance employee health, productivity, and work-life balance with customized corporate yoga and wellness sessions.",
     image:
-      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80",
+      "/images/CWP.jpg",
   },
   {
     title: "Personal Yoga Coaching",
     description:
       "Receive one-on-one yoga coaching designed specifically for your fitness goals, flexibility, and overall well-being.",
     image:
-      "https://img.freepik.com/premium-photo/group-sporty-people-easy-seat-pose-close-up_1182637-45320.jpg",
+      "/images/PY.png",
   },
   {
     title: "Whole Body Pain Relief Program",
     description:
       "Relieve neck, shoulder, back, knee, and joint pain through therapeutic yoga, stretching exercises.",
     image:
-      "https://centurionspine.com/wp-content/uploads/2022/03/shutterstock_603101948-scaled.jpg",
+      "/images/bodypain.jpg",
   },
 ];
 
