@@ -50,7 +50,7 @@ export default function Footer() {
             href="mailto:info@serenityyoga.com"
             className="hover:text-emerald-400 transition"
           >
-            afsana.mkzia@gmail.com
+            serenity.healing15@gmail.com
           </a>
         </div>
 

@@ -17,16 +17,16 @@ const faqs = [
     answer:
       "Our nutrition guidance includes personalized diet recommendations, healthy eating habits, meal planning, and lifestyle advice to support your wellness goals.",
   },
-  {
-    question: "How does meditation help improve mental health?",
-    answer:
-      "Meditation helps reduce stress, anxiety, improves concentration, promotes better sleep, and creates a sense of inner peace and emotional balance.",
-  },
-  {
-    question: "What are the benefits of Pranayama?",
-    answer:
-      "Pranayama improves lung capacity, enhances breathing efficiency, boosts energy levels, reduces stress, and supports overall physical and mental well-being.",
-  },
+  // {
+  //   question: "How does meditation help improve mental health?",
+  //   answer:
+  //     "Meditation helps reduce stress, anxiety, improves concentration, promotes better sleep, and creates a sense of inner peace and emotional balance.",
+  // },
+  // {
+  //   question: "What are the benefits of Pranayama?",
+  //   answer:
+  //     "Pranayama improves lung capacity, enhances breathing efficiency, boosts energy levels, reduces stress, and supports overall physical and mental well-being.",
+  // },
   {
     question: "Do you provide personalized wellness plans?",
     answer:
